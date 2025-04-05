@@ -45,7 +45,7 @@ export default function Contact() {
         </li>
       </ul>
 
-      <FishTank></FishTank>
+      
     </section>
     </>
   );

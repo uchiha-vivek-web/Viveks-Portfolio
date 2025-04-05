@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <>
       <Header></Header>
-      <Chat></Chat>
+      {/* <Chat></Chat> */}
 
       <div className="min-h-screen flex flex-col items-center justify-start px-4 w-full">
         <div className="w-full max-w-xl">
@@ -24,8 +24,8 @@ export default function Home() {
           <About></About>
           <TechStack></TechStack>
           <Experience></Experience>
-          <Projects></Projects>
-          <Archive></Archive>
+          {/* <Projects></Projects> */}
+          {/* <Archive></Archive> */}
           <Contact></Contact>
         </div>
       </div>

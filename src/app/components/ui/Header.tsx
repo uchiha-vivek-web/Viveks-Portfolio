@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 const Header = () => {
   const [activeSection, setActiveSection] = useState("about");
-  const navItems = ["about", "experience", "projects", "contacts"];
+  const navItems = ["about", "experience", "contacts"];
 
   const scrollToSection = (id: string) => {
     const section = document.getElementById(id);
@@ -41,9 +41,9 @@ const Header = () => {
   return (
 <section className="fixed top-0 left-0 w-full z-50 flex items-center justify-center px-6 py-4">
   {/* Left: Logo */}
-  <div className="absolute left-6">
+  {/* <div className="absolute left-6">
     <span className="text-xl font-bold">:-)</span>
-  </div>
+  </div> */}
 
   {/* Center: Nav */}
   <nav className="hidden sm:flex space-x-4">
@@ -66,14 +66,14 @@ const Header = () => {
   </nav>
 
   {/* Right: Playground Button */}
-  <div className="absolute right-6">
+  {/* <div className="absolute right-6">
     <Link
       href="/playground"
       className="w-28 px-4 py-1 rounded-full bg-[#e5372c] text-white hover:opacity-90  hover:ring-2 hover:ring-offset-2 hover:ring-[#e5372c] transition"
     >
       playground
     </Link>
-  </div>
+  </div> */}
 </section>
 
   );
