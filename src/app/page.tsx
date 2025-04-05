@@ -4,7 +4,6 @@ import Header from "./components/ui/Header";
 import About from "./components/About";
 import TechStack from "./components/TechStack";
 import Experience from "./components/Experience";
-
 import Contact from "./components/Contacts";
 
 // import { AvatarCanvas } from "./components/ui/AvatarCanvas";

@@ -15,7 +15,7 @@ export default function Contact() {
       <ul className="space-y-3 text-sm">
         <li className="flex items-center gap-2">
           <FaEnvelope className="text-gray-500" />
-          <a href="mailto:thaianle.work@gmail.com" className="text-blue-500 underline">
+          <a href="mailto:viveksharma7497@gmail.com" className="text-blue-500 underline">
             viveksharma7497@gmail.com
           </a>
         </li>
@@ -23,7 +23,7 @@ export default function Contact() {
         <li className="flex items-center gap-2">
           <FaLinkedin className="text-gray-500" />
           <a
-            href="https://www.linkedin.com/in/thai-an-le/"
+            href="https://www.linkedin.com/in/vivekuchiha/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 underline"
@@ -40,7 +40,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-blue-500 underline"
           >
-            https://github.com/xntle
+            https://github.com/uchiha-vivek
           </a>
         </li>
       </ul>
