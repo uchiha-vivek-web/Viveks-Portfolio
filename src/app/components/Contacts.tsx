@@ -9,7 +9,7 @@ export default function Contact() {
     <section id="contacts" className="mt-8 mb-8">
       <h2 className="text-xl font-bold mb-4">contact</h2>
       <p className="text-sm text-gray-600 mb-4">
-        Feel free to reach out — I’d love to connect, collaborate, or just say hi 👋
+        Feel free to reach out — I’d love to connect and Collaborate !
       </p>
 
       <ul className="space-y-3 text-sm">

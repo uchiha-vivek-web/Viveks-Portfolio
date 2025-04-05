@@ -3,9 +3,9 @@ export default function About() {
   return (
     <>
       <section id="about" className="mb-8">
-        <h2 className="text-xl font-bold">about</h2>
+        <h2 className="text-xl font-bold">About</h2>
         <p className=" text-sm  mt-2">
-          B.Tech (Hons) in <b>Material Science</b> | <b>Computer Science</b> Enthusiast | NIT Jamshedpur, India
+          B.Tech (Hons) in <b>Material Science</b> | <b>Computer Science</b> Enthusiast | <b> Mathematician </b> |  NIT Jamshedpur, India
         </p>
         <p className=" text-sm  mt-2">
           <b>Other Hobbies:</b> Mathematical research , watching anime , volleyball, reading novels
@@ -19,6 +19,13 @@ export default function About() {
             rel="noopener noreferrer"
           >
             github
+          </a>
+          <a
+            href="https://x.com/VivekSh80330931"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            X
           </a>
 
 

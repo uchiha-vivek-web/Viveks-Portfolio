@@ -19,7 +19,7 @@ const Hero = () => {
 
       {/* Introduction Message */}
       <div className="text-sm text-center text-light mt-4 px-6 py-3 border rounded-full  max-w-xl">
-        Welcome to my portfolio! I am a passionate developer, innovative problem solver, and dedicated lifelong learner committed to building impactful solutions.
+      Welcome to my portfolio! I am a passionate developer, innovator, mathematician, and problem solver — continuously learning and innovating to develop solutions that make a real difference.
       </div>
 
     </div>
