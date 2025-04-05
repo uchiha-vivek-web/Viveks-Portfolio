@@ -1,13 +1,10 @@
 "use client";
-
 import Hero from "@/app/components/Hero";
 import Header from "./components/ui/Header";
-import Chat from "./components/ui/Chat";
 import About from "./components/About";
 import TechStack from "./components/TechStack";
 import Experience from "./components/Experience";
-import Projects from "./components/Projects";
-import Archive from "./components/Archives";
+
 import Contact from "./components/Contacts";
 
 // import { AvatarCanvas } from "./components/ui/AvatarCanvas";
