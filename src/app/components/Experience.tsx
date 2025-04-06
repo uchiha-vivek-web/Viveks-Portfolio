@@ -93,8 +93,9 @@ export default function Experience() {
       bullets: [
          "Built MonkeyType ai using FalconAI, API Hub , Firebase,GPT-4o - generating words dynamically",
          "Built Tax Assistant using streamlit,LangChain,Llama3.1 - tool which helps in financial planning ",
-         "Built AI Career Navigator CrewAI,upstage and streamlit - tool to support in interview",
-         "Built MatriXpert - a tool to query anything related to Material Science stuff using image and text "
+         "Built AI Career Navigator using CrewAI,upstage and streamlit - tool to support in interview",
+         "Built MatriXpert - a tool to query anything related to Material Science stuff using image and text ",
+         "Built ScoreSmart - ai powered app to help students to improve their communication skills"
       ],
       tech: ["Python", "streamlit",'CrewAI','Firebase','OpenAI','Langchain','LLama3.1','Vercel'],
       projects: [
@@ -102,6 +103,7 @@ export default function Experience() {
              { name: "Investory", url: "https://llama-impact-hackathon-lablabai-zyaydozm9bsonmexkpyfts.streamlit.app/" },
              { name: "career-navigator", url: "https://github.com/uchiha-vivek/ai-career-navigator1" },
              { name: "MatriXpert", url: "https://lightning-fast-ai-hackathon-ko8tsrflakkinjmpfidajf.streamlit.app/" },
+             {name: "ScoreSmart" ,url:"https://hack-this-fall-2024-virtual-9uxzlh2xmgk8iq6ytmwenb.streamlit.app/"  }
              
            ],
     },
