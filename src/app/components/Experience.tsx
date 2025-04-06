@@ -11,7 +11,7 @@ export default function Experience() {
       role: "Software Engineer",
       company: "Ally Solutions ",
       image: "/ally-portfolio.png",
-      duration: "Sep 2024 - current",
+      duration: "Nov 2024 - current",
       summary: "Building conversational voice and chat assistant .",
       bullets: [
         "Built  Leomartile Bot using Azure AI and ally's agentic pipeline to query with tile's info in real time .",
