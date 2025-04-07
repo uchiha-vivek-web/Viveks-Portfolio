@@ -8,7 +8,7 @@ export default function Experience() {
 
   const experiences = [
     {
-      role: "Software Engineer",
+      role: "Software Engineer / Contributor",
       company: "Ally Solutions ",
       image: "/ally-portfolio.png",
       duration: "Nov 2024 - current",
